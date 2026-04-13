@@ -35,9 +35,9 @@ If you are unfazed by these warnings, then step right ahead! Good luck with your
 
 [How to Play 1KF](https://github.com/sillyshark321/1-Key-Finesse/blob/main/How_To_Play.md)
 
-[How to Improve at 1KF](https://github.com/sillyshark321/1-Key-Finesse)
+[How to Improve at 1KF](https://github.com/sillyshark321/1-Key-Finesse/blob/main/How_To_Improve.md)
 
-[Terminology](https://github.com/sillyshark321/1-Key-Finesse)
+[Terminology](https://github.com/sillyshark321/1-Key-Finesse/blob/main/Terminology.md)
 
 [Read More](https://github.com/sillyshark321/1-Key-Finesse)
 
