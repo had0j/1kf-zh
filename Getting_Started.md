@@ -51,7 +51,7 @@ Thanks ZyphDoz for adding 1KF, and thanks to Shay, Def and alfrix for creating t
 ## Training Tools
 
 ### Double-tap mode
-The first input of a key will preview the placement, and the second input will place it.
+The first input of a key will preview the placement, and the second input will place it.\
 Justin1L8’s 1KF code for Jstris already has it!
 Change this line in the Tampermonkey script:
 ```
@@ -81,4 +81,5 @@ https://sites.google.com/site/ddrkirby/coding-projects/keyblox
 
 ### What about TETR.IO?
 **❌ Nope! ❌** \
-1KFing is a bannable offense, as you need to use macros to play with it. (You can still play if you don't have any intentions of cheating in-game, make your own AHK script or ask me)
+1KFing is a bannable offense, as you need to use macros to play with it.\
+(You can still play if you're logged out and if you don't have any intentions of cheating in-game, you can use [this AHK v2 script](https://github.com/sillyshark321/1-Key-Finesse/blob/main/1KF.ahk))
