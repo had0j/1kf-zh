@@ -12,10 +12,41 @@ Refers to teleporting pieces to their lowest possible placements with regular gu
 ## Top Drop
 Refers to placing pieces without automatic tucking or deep dropping.
 
-# Tetris Drop Techniques
-
 | Start | After (Deep Drop) | After (Tuck Drop) | After (Top Drop) |
 |-------|-------------------|-------------------|------------------|
 | ![Start 1](https://raw.githubusercontent.com/sillyshark321/1-Key-Finesse/main/media/start1.png) | ![End 2](https://raw.githubusercontent.com/sillyshark321/1-Key-Finesse/main/media/end2.png) | ![End 1](https://raw.githubusercontent.com/sillyshark321/1-Key-Finesse/main/media/end1.png) | ![End 1](https://raw.githubusercontent.com/sillyshark321/1-Key-Finesse/main/media/end1.png) |
 | ![Start 2](https://raw.githubusercontent.com/sillyshark321/1-Key-Finesse/main/media/start2.png) | ![End 4](https://raw.githubusercontent.com/sillyshark321/1-Key-Finesse/main/media/end4.png) | ![End 4](https://raw.githubusercontent.com/sillyshark321/1-Key-Finesse/main/media/end4.png) | ![End 3](https://raw.githubusercontent.com/sillyshark321/1-Key-Finesse/main/media/end3.png) |
+
+## Guideline Controls
+Default set of controls used in guideline Tetris games (+ clones). Players move pieces with left/right, rotations, hold, and soft/hard drop keys.
+
+## 40L
+40 Lines gamemode. Also referred to as "40L Sprint", "40L Race", or just "Sprint".
+
+## 9-0, 6-3, etc.
+Refers to stacking methods. For instance, 6 columns on the left, 3 on the right, leaving a 1-wide well on column 7, hence 6-3.
+
+## Acronyms
+
+### PPS
+Pieces per second.
+
+### KPS, KPM
+Keys per second, Keys per minute.\
+"K" could be replaced with "B" for blocks.
+
+### DAS
+Delayed Auto Shift. Refers to holding down a directional key to bring a piece all the way to a wall of your playfield.
+
+### CW, CCW
+Clockwise, Counter-clockwise.
+
+### WR
+World record.
+
+### TAS
+Tool-assisted speedrun / superplay.\
+More info: https://tasvideos.org/WelcomeToTASVideos#WhatIsATas
+
+
 
