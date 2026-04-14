@@ -1,6 +1,6 @@
 # How to Play 1-Key-Finesse
 If you've downloaded Tampermonkey and Justin1L8's 1KF script on Jstris, or if you're on any 1KF client, you're good to go!\
-Otherwise, first head over to [this page](https://github.com/sillyshark321/1-Key-Finesse/blob/main/2-Getting_Started.md)
+Otherwise, first head over to [this page](https://github.com/sillyshark321/1-Key-Finesse/blob/main/1-Getting_Started.md)
 
 ## Hardware needed:
 Literally any computer keyboard, preferably with more than 40 keys\
