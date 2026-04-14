@@ -31,13 +31,13 @@ This guide is NOT for average players that simply want to “get faster”. This
 If you are unfazed by these warnings, then step right ahead! Good luck with your 1KF journey ^^
 
 ## Table of Contents
-[Getting Started](https://github.com/sillyshark321/1-Key-Finesse/blob/main/2-Getting_Started.md)
+[Getting Started](https://github.com/sillyshark321/1-Key-Finesse/blob/main/1-Getting_Started.md)
 
-[How to Play 1KF](https://github.com/sillyshark321/1-Key-Finesse/blob/main/3-How_To_Play.md)
+[How to Play 1KF](https://github.com/sillyshark321/1-Key-Finesse/blob/main/2-How_To_Play.md)
 
-[How to Improve at 1KF](https://github.com/sillyshark321/1-Key-Finesse/blob/main/4-How_To_Improve.md)
+[How to Improve at 1KF](https://github.com/sillyshark321/1-Key-Finesse/blob/main/3-How_To_Improve.md)
 
-[Terminology](https://github.com/sillyshark321/1-Key-Finesse/blob/main/5-Terminology.md)
+[Terminology](https://github.com/sillyshark321/1-Key-Finesse/blob/main/4-Terminology.md)
 
 [Read More](https://github.com/sillyshark321/1-Key-Finesse)
 
