@@ -21,10 +21,24 @@ Make sure to **hide your account** too so your runs don't appear on the main lea
 **https://scratch.mit.edu/projects/1067368439/** \
 **No browser extensions needed - play 1KF on the fly!**
 
-Make sure to read the instructions!
+Make sure to read the instructions!\
 (Hold **Shift key** + press the **green flag** to **enable Turbo mode**, might have to double-click)
 
 HTML File to play offline: WIP
+
+## AutoHotKey v2 Script ⭐
+**https://github.com/sillyshark321/1-Key-Finesse/blob/main/1KF.ahk** \
+Works with most event-based Tetris / block stacking clients.
+
+**This is a macro, do NOT use this online - always make sure you're logged out!!! For this reason 1KFing is a bannable offense in TETR.IO.**
+
+Before starting, you need to manually change the controls on your Tetris client.
+
+| `←` Left | `→` Right | `↓` Soft Drop | `↑` Hard Drop |
+|----------|-----------|---------------|---------------|
+| `-` CCW | `=` CW | `[` 180 | `]` Hold |
+
+Press `Esc` to automatically quit the application.
 
 ## downstacking.fun by ZyphDoz
 **https://downstacking.fun/** \
@@ -76,10 +90,3 @@ https://sites.google.com/site/xaelous/finesse
 
 ### KeyBlox by DDRKirby(ISQ)
 https://sites.google.com/site/ddrkirby/coding-projects/keyblox
-
-## Miscellaneous
-
-### What about TETR.IO?
-**❌ Nope! ❌** \
-1KFing is a bannable offense, as you need to use macros to play with it.\
-(You can still play if you're logged out and if you don't have any intentions of cheating in-game, you can use [this AHK v2 script](https://github.com/sillyshark321/1-Key-Finesse/blob/main/1KF.ahk))
