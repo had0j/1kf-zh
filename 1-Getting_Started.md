@@ -28,8 +28,7 @@ HTML File to play offline: WIP
 
 ## AutoHotKey v2 Script ⭐
 **https://github.com/sillyshark321/1-Key-Finesse/blob/main/1KF.ahk** \
-Works with most event-based Tetris / block stacking clients.
-
+Works with most event-based Tetris / block stacking clients.\
 **This is a macro, do NOT use this online - always make sure you're logged out!!! For this reason 1KFing is a bannable offense in TETR.IO.**
 
 Before starting, you need to manually change the controls on your Tetris client.
@@ -42,7 +41,7 @@ Press `Esc` to automatically quit the application.
 
 ## downstacking.fun by ZyphDoz
 **https://downstacking.fun/** \
-Mainly for cheese race + other downstacking modes.
+Mainly for cheese race + other downstacking modes.\
 (Settings icon → Input → 1kf)
 
 ## Cultris II
@@ -66,8 +65,8 @@ Thanks ZyphDoz for adding 1KF, and thanks to Shay, Def and alfrix for creating t
 
 ### Double-tap mode
 The first input of a key will preview the placement, and the second input will place it.\
-Justin1L8’s 1KF code for Jstris already has it!
-Change this line in the Tampermonkey script:
+
+Justin1L8’s 1KF code for Jstris already has it! Change this line in the Tampermonkey script:
 ```
 static doubleTapConfirmation = true;
 ```
@@ -82,7 +81,7 @@ https://jstris.jezevec10.com/play/mode/2103
 https://jstris.jezevec10.com/play/mode/4005
 
 ## Outdated Clients
-Note: These clients do not have the conventional control schemes used nowadays (alignments)
+Note: These clients do not have the conventional control schemes used nowadays (alignments)\
 More about alignments [here](https://github.com/sillyshark321/1-Key-Finesse)
 
 ### Finesse (KeyTris) by XaeL
