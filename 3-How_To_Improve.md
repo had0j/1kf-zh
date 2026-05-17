@@ -52,7 +52,7 @@ At this point it’ll get a lot harder to improve at 1KF unless you’re already
   - Try using your stronger fingers for keys that are harder to reach
 Learn sprint openers
 
-Here are some 9-0 openers that I use. (They might not be the best ones to use, but I’m used to them)
+Here are some 9-0 openers that I use. (They might not be the best ones to use, but I’m used to them) \
 Fumen link: https://tinyurl.com/ehdawkxv
 
 ![Openers](https://raw.githubusercontent.com/sillyshark321/1-Key-Finesse/main/media/openers.gif)
