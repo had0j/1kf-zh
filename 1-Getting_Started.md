@@ -12,7 +12,7 @@ Download the Tampermonkey extension\
 https://www.tampermonkey.net/
 
 Create a new script, and copy Justin1L8’s 1KF code\
-https://github.com/sillyshark321/1-Key-Finesse/blob/main/scripts/1KF%20test-0.4.2.user.js
+https://github.com/sillyshark321/1-Key-Finesse/blob/main/scripts/1KF-test-0.4.2.user.js
 
 > Original code on GreasyFork can be found here: \
 > https://greasyfork.org/en/scripts/420521-one-key-finesse/code \
