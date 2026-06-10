@@ -1,52 +1,53 @@
-# sillyshark’s 1-Key-Finesse Guide!
+# sillyshark 的一鍵到位指南！
 <div align="center">
   <img src="https://raw.githubusercontent.com/sillyshark321/1-Key-Finesse/main/media/image1.gif" width="30%">
   <img src="https://raw.githubusercontent.com/sillyshark321/1-Key-Finesse/main/media/image2.gif" width="30%">
   <img src="https://raw.githubusercontent.com/sillyshark321/1-Key-Finesse/main/media/image3.gif" width="30%">
 </div>
 
-## What is 1KF?
-**1KF, or 1-Key-Finesse, is an input method in modern Tetris specialized for 40L Sprint and other speed gamemodes.**\
-**Generally, 1 key pressed = 1 piece placed.**
+## 什麼是 1KF？
 
-In 1KF, each key corresponds to placing a piece in a specific column and orientation on the board.\
-Regular 1KF control schemes typically use a 4×10 matrix of keys (1 to /) and spacebar for hold. This is because each piece can have 4 different orientations, and there are 10 columns on a regular Tetris board.\
-1KF has the potential to be the fastest Tetris playstyle whilst still being accessible for everyone regardless of mechanical skill, at the cost of being difficult to learn.
+**1KF 或 1-Key Finesse 是一種專用於現代俄羅斯方塊40行競速與其他速度模式的操縱方式。**  
+**大致上，按下一鍵 = 擺放一塊。**  
 
-## Join the 1KF Discord
+在 1KF 裡，每個按鍵對應著一種旋轉方向和場地上的一條直行。 
+普通的 1KF 布局通常使用4×10的按鍵矩陣（1 到 /）以及空白鍵暫存。這是因為一個方塊能有4種旋轉方向，且場地共有10條直行。  
+1KF 有能力成為最快的俄羅斯方塊打法並同時讓任何人無論手速利用，但也擁有較難學會的代價。  
+
+## 加入 1KF 伺服
 **https://discord.gg/xAzagQrJZA**
 
-## ⚠️ DISCLAIMER ⚠️
-**ONLY LEARN 1KF IF...**
-- You play modern Tetris duh
-- You're willing to spend a lot of time being so atrocious at something that seems so trivial (like typing with an alternate keyboard layout)
-- You don’t care about in-game leaderboards
-- You think regular guideline controls are restricting
-  - You’ve reached your mechanical limit and don’t think you can go any faster
-  - You have an injury that prevents you from playing faster
-- …and despite all this, you’re willing to give it your all to bump up your PPS or even become the fastest Tetris player (keep in mind that **you’re not guaranteed to become faster** than you used to by using 1KF
+## ⚠️ 聲明 ⚠️
+**僅學 1KF 如果...**
+- 你有在玩現代俄羅斯方塊（當然阿）
+- 你願意花許多時間對一件看似那麼簡單的事卻那麼糟糕（像是用其他鍵盤布局打字）
+- 你不在意遊戲內排行榜
+- 你認為普通操控方式帶來了限制
+  - 你已經到達你手速的極限並感覺沒辦法再快了
+  - 你有防止打更快的受傷
+- ...然而即便如此，你願意付出所有以提升你的 PPS 或甚至成為最快的俄羅斯方塊玩家（謹記**你用 1KF 不一定將比以前更快**）
 
-This guide is NOT for average players that simply want to “get faster”. This is about a niche, experimental playstyle that doesn’t get much recognition next to the usual guideline stuff.
+這個指南*不是*為單純想「更快」的普通玩家。這是關於一種不像常見玩法受到矚目的冷門、實驗性打法。
 
-If you are unfazed by these warnings, then step right ahead! Good luck with your 1KF journey ^^
+如果你不被這些警示嚇走，那就請勇往直前吧！祝你在 1KF 的旅程上好運 ^^
 
-## Table of Contents
-[Getting Started](https://github.com/sillyshark321/1-Key-Finesse/blob/main/1-Getting_Started.md)
+## 目錄
+[剛開始](https://github.com/sillyshark321/1-Key-Finesse/blob/main/1-Getting_Started.md)
 
-[How to Play 1KF](https://github.com/sillyshark321/1-Key-Finesse/blob/main/2-How_To_Play.md)
+[如何玩 1KF](https://github.com/sillyshark321/1-Key-Finesse/blob/main/2-How_To_Play.md)
 
-[How to Improve at 1KF](https://github.com/sillyshark321/1-Key-Finesse/blob/main/3-How_To_Improve.md)
+[如何進步](https://github.com/sillyshark321/1-Key-Finesse/blob/main/3-How_To_Improve.md)
 
-[Terminology](https://github.com/sillyshark321/1-Key-Finesse/blob/main/4-Terminology.md)
+[術語](https://github.com/sillyshark321/1-Key-Finesse/blob/main/4-Terminology.md)
 
-[Read More](https://github.com/sillyshark321/1-Key-Finesse)
+[繼續讀](https://github.com/sillyshark321/1-Key-Finesse)
 
-## Special Thanks
+## 特別感謝
 - ZyphDoz
 - Shay
 - WylieCan't1KF
 
-### 40L Sprint replay links above:
+### 上圖的40行競速回放連結:
 1. Justin1L8 - [15.061](https://jstris.jezevec10.com/replay/66786717)
 2. sillyshark123 - [12.387](https://jstris.jezevec10.com/replay/99412906)
 3. swng - [18.400](https://jstris.jezevec10.com/replay/98352607)
