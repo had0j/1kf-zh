@@ -25,22 +25,22 @@
 - 你認為普通操控方式帶給了限制
   - 你已經到達你手速的極限並感覺沒辦法再快了
   - 你有防止你打更快的受傷
-- ...然而即便如此，你願意付出所有以提升你的 PPS 或甚至成為最快的俄羅斯方塊玩家（謹記**你用 1KF 不一定將比以前更快**）
+- ...然而即便如此，你願意付出全力以提升你的 PPS 或甚至成為最快的俄羅斯方塊玩家（謹記**你用 1KF 不一定將比以前更快**）
 
 這個指南**不是**為單純想「更快」的普通玩家。這是關於一種在常見玩法旁邊不受到同樣矚目的冷門、實驗性打法。
 
 如果你不被這些警示嚇走，那就請勇往直前吧！祝你的 1KF 旅程好運 ^^
 
 ## 目錄
-[剛開始](https://github.com/sillyshark321/1-Key-Finesse/blob/main/1-Getting_Started.md)
+[準備開始](https://github.com/sillyshark321/1-Key-Finesse/blob/main/1-準備開始.md)
 
-[如何玩 1KF](https://github.com/sillyshark321/1-Key-Finesse/blob/main/2-How_To_Play.md)
+[如何玩 1KF](https://github.com/sillyshark321/1-Key-Finesse/blob/main/2-如何玩.md)
 
-[如何進步](https://github.com/sillyshark321/1-Key-Finesse/blob/main/3-How_To_Improve.md)
+[如何進步於 1KF](https://github.com/sillyshark321/1-Key-Finesse/blob/main/3-如何進步.md)
 
-[術語](https://github.com/sillyshark321/1-Key-Finesse/blob/main/4-Terminology.md)
+[術語](https://github.com/sillyshark321/1-Key-Finesse/blob/main/4-術語.md)
 
-[繼續讀](https://github.com/sillyshark321/1-Key-Finesse)
+[繼續讀](https://github.com/sillyshark321/1-Key-Finesse) （翻譯補注：原版還沒加）
 
 ## 特別感謝
 - ZyphDoz
