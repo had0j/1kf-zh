@@ -15,7 +15,7 @@
 1KF 有能力在成為最快的俄羅斯方塊打法之外同時讓任何人無論手速利用，但也有較難學會的代價。  
 
 ## 加入 1KF 伺服
-**https://discord.gg/xAzagQrJZA**``
+**https://discord.gg/xAzagQrJZA**
 
 ## ⚠️ 聲明 ⚠️
 **僅學 1KF 如果...**
