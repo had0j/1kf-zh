@@ -32,15 +32,15 @@
 如果你不被這些警示嚇走，那就請勇往直前吧！祝你的 1KF 旅程好運 ^^
 
 ## 目錄
-[準備開始](https://github.com/sillyshark321/1-Key-Finesse/blob/main/1-準備開始.md)
+[準備開始](https://github.com/had0j/1kf-zh/blob/main/1-準備開始.md)
 
-[如何玩 1KF](https://github.com/sillyshark321/1-Key-Finesse/blob/main/2-如何玩.md)
+[如何玩 1KF](https://github.com/had0j/1kf-zh/blob/main/2-如何玩.md)
 
-[如何進步於 1KF](https://github.com/sillyshark321/1-Key-Finesse/blob/main/3-如何進步.md)
+[如何進步於 1KF](https://github.com/had0j/1kf-zh/blob/main/3-如何進步.md)
 
-[術語](https://github.com/sillyshark321/1-Key-Finesse/blob/main/4-術語.md)
+[術語](https://github.com/had0j/1kf-zh/blob/main/4-術語.md)
 
-[繼續讀](https://github.com/sillyshark321/1-Key-Finesse) （翻譯補注：原版還沒加）
+[繼續讀](https://github.com/had0j/1kf-zh) （翻譯補注：原版還沒加）
 
 ## 特別感謝
 - ZyphDoz
